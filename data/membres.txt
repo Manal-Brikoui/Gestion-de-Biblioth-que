@@ -1,0 +1,18 @@
+M001;Omar El Haddadi;9780439139595,9782070409186,9782070612758
+M003;Youssef Benjelloun;9782253006329
+M004;Khadija Bouziane;
+M002;Fatima Zahra Idrissi;9782370490096
+M005;Mohamed Amrani;9782266283430
+M006;Sanae Choukri;9780140449266
+M007;Ahmed El Mansouri;
+M008;Nadia El Khadir;9782743623954
+M009;Hassan Bensalem;
+M0010;Malak ahmed;
+M0011;Meryam montasir;
+M0012;naoual hakim;
+M0015;Siham mountasiir;
+M00124;yassmina khalil;
+M00134;hanane lmoutaouakil;
+M00145;ihssan benjalloun;
+M0018;intissar benalli;998765222123
+M0019;manar berada;

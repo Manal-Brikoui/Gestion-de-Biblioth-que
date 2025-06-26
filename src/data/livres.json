@@ -1,0 +1,11 @@
+{
+  "123": {
+    "isbn": "123",
+    "titre": "LLL",
+    "auteur": "BBB",
+    "année": "1999",
+    "genre": "JJJJ",
+    "statut": "disponible",
+    "emprunte_par": ""
+  }
+}
